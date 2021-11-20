@@ -41,3 +41,9 @@ https://github.com/cchickowski/SQLAlchemy-Climate_Analysis/blob/bfe13535078f4711
 
 # Climate App
 Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
+API Available Routes:
+/api/v1.0/precipitation
+/api/v1.0/stations
+/api/v1.0/tobs
+/api/v1.0/[start_date format:yyyy-mm-dd]
+/api/v1.0/[start_date format:yyyy-mm-dd]/[end_date format:yyyy-mm-dd]
