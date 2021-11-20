@@ -15,7 +15,7 @@ Sort the DataFrame values by date.
 
 Plot the results using the DataFrame plot method. Output:
 
-(https://github.com/cchickowski/SQLAlchemy-Climate_Analysis/blob/b4c649aaf447b3c43b2fb3448dcb1965cf62ae57/Precipitation_Analysis.png)
+https://github.com/cchickowski/SQLAlchemy-Climate_Analysis/blob/b4c649aaf447b3c43b2fb3448dcb1965cf62ae57/Precipitation_Analysis.png
 
 ## Station Analysis
 
@@ -38,3 +38,6 @@ Query the last 12 months of temperature observation data for this station.
 Plot the results as a histogram. Output:
 
 https://github.com/cchickowski/SQLAlchemy-Climate_Analysis/blob/bfe13535078f4711336831021299f113d5cd94f3/Station_Histogram.png
+
+# Climate App
+Now that you have completed your initial analysis, design a Flask API based on the queries that you have just developed.
