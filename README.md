@@ -15,5 +15,5 @@ Sort the DataFrame values by date.
 
 Plot the results using the DataFrame plot method. Output:
 
-![] (https://github.com/cchickowski/SQLAlchemy-Climate_Analysis/blob/b4c649aaf447b3c43b2fb3448dcb1965cf62ae57/Precipitation_Analysis.png)
+! (https://github.com/cchickowski/SQLAlchemy-Climate_Analysis/blob/b4c649aaf447b3c43b2fb3448dcb1965cf62ae57/Precipitation_Analysis.png)
 
