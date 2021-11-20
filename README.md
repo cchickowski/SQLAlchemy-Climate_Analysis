@@ -14,4 +14,5 @@ Load the query results into a Pandas DataFrame and set the index to the date col
 Sort the DataFrame values by date.
 
 Plot the results using the DataFrame plot method. Output:
-!(C:\Users\cchic\OneDrive\Documents\projects_challenges\SQLAlchemy-Climate_Analysis\Precipitation_Analysis.png)
+!Precipitation_Analysis.png
+
